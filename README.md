@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi Kumar
 - 👀 I’m interested in Python, MERN stack and Java Full-Stack.
 - 🌱 I’m have completed my Bachelor of Technology in Computer Science from Technocrats Institute of Technology, Bhopal.
-- <!-- -  I’m looking to collaborate on .. -->
+ <!-- -  I’m looking to collaborate on .. -->
 
 
 <!---
